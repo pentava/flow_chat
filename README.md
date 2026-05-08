@@ -1,5 +1,4 @@
 ### Pardon me viewers for the code quality because it was created in the year 2018 when I was in my learning phase.
-
 # Flow Chat
 > It is a realtime chatting web application which also allows users to draw together in realtime
 
